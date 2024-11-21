@@ -1,1 +1,1 @@
-"nice try diddy"
+" diddy"
